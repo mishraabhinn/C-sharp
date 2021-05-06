@@ -97,3 +97,8 @@
 /Users/abhinnmishra/gradebook/test/GradeBook.Test/obj/Debug/net5.0/ref/GradeBook.Test.dll
 /Users/abhinnmishra/gradebook/test/GradeBook.Test/obj/Debug/net5.0/GradeBook.Test.pdb
 /Users/abhinnmishra/gradebook/test/GradeBook.Test/obj/Debug/net5.0/GradeBook.Test.genruntimeconfig.cache
+/Users/abhinnmishra/gradebook/test/GradeBook.Test/bin/Debug/net5.0/GradeBook.deps.json
+/Users/abhinnmishra/gradebook/test/GradeBook.Test/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/abhinnmishra/gradebook/test/GradeBook.Test/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/abhinnmishra/gradebook/test/GradeBook.Test/bin/Debug/net5.0/GradeBook.dll
+/Users/abhinnmishra/gradebook/test/GradeBook.Test/bin/Debug/net5.0/GradeBook.pdb
